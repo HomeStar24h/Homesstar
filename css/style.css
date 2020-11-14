@@ -2087,29 +2087,24 @@ h1,h2,h3,h4,h5,h6,.main-title a, .flight-info h3 .flight-destination,.blog-post-
 
 /************* NEWSLETTER-1 *************/
 
-#newsletter-1 h2{
+#contact-form h2{
 	font-size:36px;
 }
 
-#newsletter-1 p{
+#contact-form p{
 	font-size:18px;
 	margin-bottom:40px;
 	text-transform:uppercase;
 }
 
-#newsletter-1 form .form-group{
-	width:610px;
+#contact-form form .form-group{
+	
 	margin:0 auto;
 }
 
-#newsletter-1 form .input-group-btn .btn{
-	font-size:22px;
-	width:75px;
-}
-
-#newsletter-1 form input,
-#newsletter-1 form .input-group-btn .btn{
-	height:60px;
+#contact-form form .input-group-btn .btn{
+	font-size:18px;
+	width:100px;
 }
 
 /************* NEWSLETTER-2 *************/
